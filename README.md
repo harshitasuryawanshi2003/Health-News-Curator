@@ -7,6 +7,7 @@ Built with **React (frontend)** and **Node.js/Express (backend)**, with integrat
 
 ## 🔗 Important Links
  Hosted App:https://health-news-curator-eight.vercel.app/
+ 
  GitHub Repository:https://github.com/harshitasuryawanshi2003/Health-News-Curator
 
  ---
@@ -109,12 +110,16 @@ React App → aiService.js → /api/ai/* → geminiService.js → Gemini API →
 • Article View
 
  ![alt text](image-2.png)
+ 
+ ![alt text](image-5.png)
 
 • Detail View with TL;DR and key takeaways
 
   ![alt text](image-3.png)
 
 • Simplified Article View
+
+  ![alt text](image-4.png)
 
 ---
 

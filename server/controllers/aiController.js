@@ -72,7 +72,6 @@ async function simplifyArticle(req, res) {
     console.log(simplifiedText)
     res.json({ simplifiedText });
   } catch (error) {
-    console.error('Gemini API Error:', error.response?.data || error.message);
     res.status(500).json({ error: error.message });
   }
 }
