@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
+const BACKEND_URL = `https://health-news-curator-backend.onrender.com`;
 
 export async function generateSummary(articleText, language) {
   const response = await axios.post(`${BACKEND_URL}/api/ai/generate-summary`, { articleText,language });
