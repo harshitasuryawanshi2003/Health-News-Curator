@@ -116,13 +116,13 @@ React App → aiService.js → /api/ai/* → geminiService.js → Gemini API →
 
   <img width="1911" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d8511a1-064d-4b1d-9e4a-c62b27ccda36" />
 
-  <img width="1912" height="1019" alt="image" src="https://github.com/user-attachments/assets/8081f714-a5e4-4dc5-911d-32f4f1f26a8c" />
+  <img width="1892" height="1014" alt="image" src="https://github.com/user-attachments/assets/e8db2116-8337-46cf-9ff3-1b1d90ae47f3" />
 
 
 • Simplified Article View
-  
- 
 
+   <img width="1912" height="1019" alt="image" src="https://github.com/user-attachments/assets/8081f714-a5e4-4dc5-911d-32f4f1f26a8c" />
+ 
 ---
 
 ## 🐞 Known Issues
