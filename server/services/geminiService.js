@@ -18,7 +18,7 @@ async function callGemini(prompt) {
           'Content-Type': 'application/json',
           'User-Agent': 'PostmanRuntime/7.32.0'
         },
-        timeout: 30000,
+        // timeout: 30000,
       }
     );
 

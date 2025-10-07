@@ -101,8 +101,18 @@ React App → aiService.js → /api/ai/* → geminiService.js → Gemini API →
 ## 📷 Screenshots
 
 • Home page
+ 
+ ![alt text](image.png)
+
+ ![alt text](image-1.png)
+
+• Article View
+
+ ![alt text](image-2.png)
 
 • Detail View with TL;DR and key takeaways
+
+  ![alt text](image-3.png)
 
 • Simplified Article View
 
