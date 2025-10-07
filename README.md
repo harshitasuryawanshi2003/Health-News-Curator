@@ -14,6 +14,7 @@ Built with **React (frontend)** and **Node.js/Express (backend)**, with integrat
 ---
 
 ## 📂 Project Structure
+
 ├── public/ # Static files
 ├── src/ # Frontend React code
 │ ├── components/ # UI Components
