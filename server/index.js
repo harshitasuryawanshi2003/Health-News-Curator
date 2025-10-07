@@ -5,7 +5,7 @@ const aiRoutes = require('./routes/aiRoutes');
 
 const app = express();
 app.use(express.json());
-app.use(cors({ origin: 'https://health-news-curator-eight.vercel.app/' }));
+app.use(cors({ origin: 'https://health-news-curator-eight.vercel.app' }));
 
 app.use('/api', aiRoutes);
 app.get('/', (req, res) => {
