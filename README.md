@@ -103,23 +103,25 @@ React App → aiService.js → /api/ai/* → geminiService.js → Gemini API →
 
 • Home page
  
- ![alt text](image.png)
+ 
+ <img width="1907" height="1014" alt="image" src="https://github.com/user-attachments/assets/1788ddc9-9825-40d0-b0c4-2200b14bde92" />
 
- ![alt text](image-1.png)
 
 • Article View
 
- ![alt text](image-2.png)
+ <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/475e1278-c19e-410c-a390-7927e3b6fcf7" />
  
- ![alt text](image-5.png)
 
 • Detail View with TL;DR and key takeaways
 
-  ![alt text](image-3.png)
+  <img width="1911" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d8511a1-064d-4b1d-9e4a-c62b27ccda36" />
+
+  <img width="1912" height="1019" alt="image" src="https://github.com/user-attachments/assets/8081f714-a5e4-4dc5-911d-32f4f1f26a8c" />
+
 
 • Simplified Article View
-
-  ![alt text](image-4.png)
+  
+ 
 
 ---
 
